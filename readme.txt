@@ -6,8 +6,7 @@ These steps will install the dependencies for this project globally and run them
 2. Ensure npm is on path. 
 3. Install webdriver-manager globally. 
     -npm install -g webdriver-manager
-4. Install protractor, nightwatch, and webdriverio globally. 
-
+4. Install protractor, nightwatch, and webdriverio globally using npm. 
 5. To run protractor, enter the protractorTest folder and run
     > protractor conf.js
 6. To run webdriverio, enter the webdriverioTest folder and run
